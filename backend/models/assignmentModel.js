@@ -21,6 +21,7 @@ const assignmentSchema = new mongoose.Schema({
     aiFeedback:String
   }
 ]
+  
 });
 
 const Assignment = mongoose.model('Assignment', assignmentSchema);
