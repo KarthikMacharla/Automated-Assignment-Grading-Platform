@@ -6,6 +6,7 @@ async function fetchTextData(url) {
     return textData;
 }
 
+
 function compareStrings(str1, str2) {
     // Remove all spaces and newlines from both strings
     const strippedStr1 = str1.replace(/\s/g, '');
