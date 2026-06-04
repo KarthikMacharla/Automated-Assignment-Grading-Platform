@@ -87,6 +87,6 @@ Submitting File
 
 1. Venkata Sai Shankar Karthik Macharla – 240101111  
 2. Chetan Srirama       – 240101031  
-3. Kummari Venu         - 240101048
+3. Kummari Venu         – 240101048
 
 
